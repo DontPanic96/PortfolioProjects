@@ -1,3 +1,5 @@
+-- Создание архитектуры баз данных
+
 -- Справочник  ТЦ, stores as st
 CREATE TABLE IF NOT EXISTS stores (
     store_id BIGINT PRIMARY KEY,
